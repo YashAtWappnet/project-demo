@@ -1,5 +1,5 @@
 This is code for new-feature-2 written by YashSolanki6803
 
-This code was written in feature/new-feature-2 branch
+This code was updated in review-feature-2 branch.
 
 Again added something to the feature-2
