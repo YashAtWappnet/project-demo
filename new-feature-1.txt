@@ -1,3 +1,5 @@
 This is code for new-feature-1 written by YashSolanki6803
 
 This code was written in feature/new-feature-1 branch
+
+Changes were asked. This is the change. I will push again (This was a spelling mistake).
