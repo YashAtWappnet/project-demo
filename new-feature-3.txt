@@ -2,3 +2,5 @@ Code for feature 3
 
 Base commit - 1
 Another commit to generate conflict.
+
+This is a new code line added by the reviewer
